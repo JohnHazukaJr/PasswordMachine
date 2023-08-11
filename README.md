@@ -1,5 +1,6 @@
-# 03 JavaScript: Password Generator
+# 03 JavaScript: Password Machine
 
+This is my password machine with example images below
 
 ![Alt text](image.png)
 
